@@ -1,0 +1,637 @@
+R		G		B
+255		0		255
+Count
+34
+Sprite Info
+
+Index		Name
+0			Animation1
+
+			FramesCount
+			7
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			3				2				37				57
+			47				2				41				57
+			95				2				40				57
+			143				2				44				57
+			197				2				41				57
+			250				2				42				57
+			303				2				44				57
+
+
+Index		Name
+1			Animation2
+
+			FramesCount
+			15
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			6				64				40				80
+			51				64				61				80
+			116				64				62				80
+			180				64				41				80
+			228				64				39				80
+			275				64				36				80
+			319				64				40				80
+			366				64				41				80
+			417				64				43				80
+			465				64				42				80
+			516				64				45				80
+			568				64				42				80
+			619				64				42				80
+			668				64				40				80
+			715				64				39				80
+
+
+Index		Name
+2			Animation3
+
+			FramesCount
+			17
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			3				151				36				81
+			46				151				40				81
+			91				151				41				81
+			140				151				38				81
+			188				151				41				81
+			238				151				42				81
+			287				151				38				81
+			334				151				39				81
+			378				151				39				81
+			425				151				38				81
+			472				151				38				81
+			519				151				38				81
+			568				151				43				81
+			615				151				42				81
+			666				151				42				81
+			715				151				40				81
+			762				151				39				81
+
+
+Index		Name
+3			Animation4
+
+			FramesCount
+			6
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			7				245				43				60
+			57				245				41				60
+			109				245				38				60
+			163				245				46				60
+			221				245				37				60
+			268				245				39				60
+
+
+Index		Name
+4			Animation5
+
+			FramesCount
+			3
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			355				255				39				59
+			403				255				45				59
+			455				255				49				59
+
+
+Index		Name
+5			Animation6
+
+			FramesCount
+			4
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			547				261				42				51
+			600				261				48				51
+			657				261				54				51
+			720				261				53				51
+
+
+Index		Name
+6			Animation7
+
+			FramesCount
+			5
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			5				314				45				74
+			54				314				51				74
+			115				314				45				74
+			171				314				84				74
+			260				314				51				74
+
+
+Index		Name
+7			Animation8
+
+			FramesCount
+			9
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			188				402				47				87
+			244				402				47				87
+			293				402				54				87
+			358				402				74				87
+			447				402				54				87
+			515				402				49				87
+			579				402				51				87
+			639				402				53				87
+			699				402				46				87
+
+
+Index		Name
+8			Animation9
+
+			FramesCount
+			5
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			22				510				37				52
+			71				510				37				52
+			120				510				50				52
+			177				510				82				52
+			269				510				57				52
+
+
+Index		Name
+9			Animation10
+
+			FramesCount
+			5
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			498				507				49				59
+			556				507				43				59
+			611				507				39				59
+			664				507				52				59
+			732				507				40				59
+
+
+Index		Name
+10			Animation11
+
+			FramesCount
+			7
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			22				585				47				34
+			77				585				45				34
+			128				585				71				34
+			206				585				92				34
+			311				585				84				34
+			405				585				71				34
+			488				585				45				34
+
+
+Index		Name
+11			Animation12
+
+			FramesCount
+			9
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			10				646				41				85
+			66				646				45				85
+			124				646				57				85
+			199				646				58				85
+			273				646				61				85
+			350				646				58				85
+			419				646				53				85
+			491				646				50				85
+			560				646				59				85
+
+
+Index		Name
+12			Animation13
+
+			FramesCount
+			10
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			8				750				59				97
+			75				750				52				97
+			137				750				54				97
+			203				750				54				97
+			269				750				51				97
+			336				750				38				97
+			390				750				35				97
+			448				750				34				97
+			504				750				34				97
+			564				750				34				97
+
+
+Index		Name
+13			Animation14
+
+			FramesCount
+			12
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			15				901				54				86
+			87				901				54				86
+			145				901				67				86
+			215				901				64				86
+			288				901				70				86
+			364				901				81				86
+			449				901				89				86
+			548				901				91				86
+			643				901				97				86
+			748				901				99				86
+			851				901				109				86
+			964				901				108				86
+
+
+Index		Name
+14			Animation15
+
+			FramesCount
+			6
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			11				1015				52				80
+			73				1015				50				80
+			138				1015				47				80
+			197				1015				52				80
+			264				1015				87				80
+			359				1015				65				80
+
+
+Index		Name
+15			Animation16
+
+			FramesCount
+			8
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			14				1116				49				54
+			78				1116				37				54
+			137				1116				35				54
+			192				1116				38				54
+			254				1116				38				54
+			308				1116				37				54
+			364				1116				39				54
+			419				1116				43				54
+
+
+Index		Name
+16			Animation17
+
+			FramesCount
+			10
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			10				1467				40				86
+			57				1467				54				86
+			120				1467				52				86
+			191				1467				44				86
+			258				1467				36				86
+			311				1467				43				86
+			366				1467				50				86
+			430				1467				57				86
+			517				1467				47				86
+			586				1467				34				86
+
+
+Index		Name
+17			Animation18
+
+			FramesCount
+			5
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			7				1562				49				90
+			65				1562				47				90
+			123				1562				41				90
+			181				1562				40				90
+			236				1562				38				90
+
+
+Index		Name
+18			Animation19
+
+			FramesCount
+			5
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			13				1664				37				89
+			65				1664				41				89
+			125				1664				51				89
+			192				1664				31				89
+			236				1664				57				89
+
+
+Index		Name
+19			Animation20
+
+			FramesCount
+			9
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			313				1602				34				84
+			368				1602				25				84
+			403				1602				36				84
+			447				1602				48				84
+			507				1602				59				84
+			584				1602				59				84
+			657				1602				52				84
+			725				1602				47				84
+			785				1602				45				84
+
+
+Index		Name
+20			Animation21
+
+			FramesCount
+			13
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			14				1190				40				60
+			66				1190				43				60
+			120				1190				41				60
+			171				1190				41				60
+			220				1190				52				60
+			279				1190				46				60
+			334				1190				42				60
+			386				1190				41				60
+			440				1190				35				60
+			488				1190				49				60
+			547				1190				55				60
+			611				1190				55				60
+			679				1190				44				60
+
+
+Index		Name
+21			Animation22
+
+			FramesCount
+			9
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			14				1267				57				71
+			86				1267				44				71
+			137				1267				51				71
+			203				1267				47				71
+			259				1267				43				71
+			312				1267				55				71
+			379				1267				52				71
+			440				1267				47				71
+			501				1267				54				71
+
+
+Index		Name
+22			Animation23
+
+			FramesCount
+			10
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			11				1358				29				92
+			53				1358				28				92
+			94				1358				28				92
+			133				1358				42				92
+			186				1358				31				92
+			231				1358				29				92
+			274				1358				28				92
+			314				1358				32				92
+			356				1358				42				92
+			406				1358				28				92
+
+
+Index		Name
+23			Animation24
+
+			FramesCount
+			9
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			15				1759				48				105
+			81				1759				52				105
+			146				1759				63				105
+			222				1759				1				105
+			225				1759				1				105
+			228				1759				72				105
+			327				1759				55				105
+			396				1759				79				105
+			499				1759				48				105
+
+
+Index		Name
+24			Animation25
+
+			FramesCount
+			13
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			7				1875				80				59
+			93				1875				61				59
+			166				1875				45				59
+			219				1875				45				59
+			270				1875				39				59
+			318				1875				40				59
+			367				1875				35				59
+			413				1875				36				59
+			460				1875				39				59
+			511				1875				44				59
+			566				1875				41				59
+			620				1875				39				59
+			667				1875				40				59
+
+
+Index		Name
+25			Animation26
+
+			FramesCount
+			9
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			13				1950				56				53
+			81				1950				65				53
+			163				1950				70				53
+			243				1950				77				53
+			333				1950				72				53
+			422				1950				66				53
+			501				1950				75				53
+			591				1950				81				53
+			687				1950				75				53
+
+
+Index		Name
+26			Animation27
+
+			FramesCount
+			8
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			19				2014				54				75
+			91				2014				50				75
+			159				2014				45				75
+			220				2014				50				75
+			281				2014				56				75
+			350				2014				59				75
+			425				2014				58				75
+			497				2014				55				75
+
+
+Index		Name
+27			Animation28
+
+			FramesCount
+			6
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			9				2107				52				42
+			68				2107				52				42
+			129				2107				52				42
+			190				2107				52				42
+			259				2107				63				42
+			333				2107				55				42
+
+
+Index		Name
+28			Animation29
+
+			FramesCount
+			6
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			9				2160				42				53
+			58				2160				55				53
+			122				2160				59				53
+			189				2160				80				53
+			282				2160				61				53
+			351				2160				59				53
+
+
+Index		Name
+29			Animation30
+
+			FramesCount
+			14
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			49				2242				37				90
+			97				2242				43				90
+			148				2242				61				90
+			223				2242				61				90
+			296				2242				76				90
+			383				2242				77				90
+			476				2242				75				90
+			567				2242				68				90
+			654				2242				66				90
+			734				2242				66				90
+			811				2242				66				90
+			888				2242				66				90
+			970				2242				66				90
+			1049				2242				66				90
+
+
+Index		Name
+30			Animation31
+
+			FramesCount
+			15
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			14				2349				68				139
+			92				2349				1				139
+			94				2349				56				139
+			158				2349				20				139
+			188				2349				23				139
+			220				2349				25				139
+			258				2349				27				139
+			293				2349				38				139
+			348				2349				37				139
+			397				2349				42				139
+			457				2349				53				139
+			525				2349				43				139
+			578				2349				50				139
+			638				2349				45				139
+			697				2349				40				139
+
+
+Index		Name
+31			Animation32
+
+			FramesCount
+			8
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			3				2564				44				63
+			60				2564				49				63
+			123				2564				35				63
+			166				2564				40				63
+			215				2564				36				63
+			263				2564				38				63
+			310				2564				48				63
+			372				2564				37				63
+
+
+Index		Name
+32			Animation33
+
+			FramesCount
+			10
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			333				2643				47				69
+			388				2643				47				69
+			441				2643				45				69
+			493				2643				45				69
+			548				2643				45				69
+			603				2643				42				69
+			654				2643				49				69
+			715				2643				49				69
+			773				2643				49				69
+			830				2643				50				69
+
+
+Index		Name
+33			Animation34
+
+			FramesCount
+			5
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			9				2653				51				31
+			68				2653				50				31
+			128				2653				51				31
+			189				2653				51				31
+			251				2653				51				31
+
