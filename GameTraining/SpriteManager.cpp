@@ -29,6 +29,10 @@ SpriteManager::SpriteManager()
 	sprites[SPR_THINGMAN]->ReadFromFile("Data\\Sprite\\Enemies\\ThingMan\\info.simple.txt", "Data\\Sprite\\Enemies\\ThingMan\\ganesis.png");
 	sprites[SPR_THINGMAN]->img->direction = Right;
 
+	sprites[SPR_FATMAN] = new Sprite();
+	sprites[SPR_FATMAN]->ReadFromFile("Data\\Sprite\\Enemies\\FatMan\\info.simple.txt", "Data\\Sprite\\Enemies\\FatMan\\ganesis.png");
+	sprites[SPR_FATMAN]->img->direction = Right;
+
 	/*sprites[SPR_BLADER] = new Sprite();
 	sprites[SPR_BLADER]->img = sprites[SPR_PEA]->img;
 	sprites[SPR_BLADER]->readInfo("Data\\Sprite\\Enemies\\Blader\\blader.txt");

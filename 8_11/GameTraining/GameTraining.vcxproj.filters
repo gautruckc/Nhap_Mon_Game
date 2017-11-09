@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Objects">
+      <UniqueIdentifier>{7f19ad77-b4a5-4c16-876a-33cd90cb3d5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Background">
+      <UniqueIdentifier>{fcbc9075-b7ba-4fe9-a42c-fb856645f205}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Background\Infrastructure">
+      <UniqueIdentifier>{1356c56c-c1d5-4707-921a-95443eccc583}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Background\Shape">
+      <UniqueIdentifier>{971c2d7d-18d7-416a-a95d-c2ea8a590b75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Background\ObjectBase">
+      <UniqueIdentifier>{1c93216e-1740-481c-a414-5e7dec850efc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Background\ObjectExt">
+      <UniqueIdentifier>{676f71c0-21f5-49ab-8681-fe026b2d880e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Background\Collision">
+      <UniqueIdentifier>{f6660d0a-9f11-4cca-bfc1-cd0cc9202365}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Background\StageAndQuadTree">
+      <UniqueIdentifier>{714a5025-98ff-4248-983d-e7a4287cf85d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Beak.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="BeakBullet.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="RockmanBullet.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Picket.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Background\ObjectExt</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseObject.cpp">
+      <Filter>Background\ObjectBase</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>Background\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="Constant.cpp">
+      <Filter>Background\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="DelayTime.cpp">
+      <Filter>Background\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Background\ObjectBase</Filter>
+    </ClCompile>
+    <ClCompile Include="KEY.cpp">
+      <Filter>Background\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="Keyboard.cpp">
+      <Filter>Background\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Background\StageAndQuadTree</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectXTool.cpp">
+      <Filter>Background\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="Form.cpp">
+      <Filter>Background\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Background\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="GameTime.cpp">
+      <Filter>Background\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>Background\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Background\Infrastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="MovableObject.cpp">
+      <Filter>Background\ObjectBase</Filter>
+    </ClCompile>
+    <ClCompile Include="FRectangle.cpp">
+      <Filter>Background\Shape</Filter>
+    </ClCompile>
+    <ClCompile Include="FBox.cpp">
+      <Filter>Background\Shape</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectsFilter.cpp">
+      <Filter>Background\StageAndQuadTree</Filter>
+    </ClCompile>
+    <ClCompile Include="OuterSpace.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadNode.cpp">
+      <Filter>Background\StageAndQuadTree</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadTree.cpp">
+      <Filter>Background\StageAndQuadTree</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Background\ObjectExt</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteManager.cpp">
+      <Filter>Background\ObjectExt</Filter>
+    </ClCompile>
+    <ClCompile Include="Stairs.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMap.cpp">
+      <Filter>Background\StageAndQuadTree</Filter>
+    </ClCompile>
+    <ClCompile Include="MapGame.cpp">
+      <Filter>Background\StageAndQuadTree</Filter>
+    </ClCompile>
+    <ClCompile Include="Aladin.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="MapView.cpp">
+      <Filter>Background\StageAndQuadTree</Filter>
+    </ClCompile>
+    <ClCompile Include="ThingMan.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="ActionLoop.cpp">
+      <Filter>Background\ObjectExt</Filter>
+    </ClCompile>
+    <ClCompile Include="FatMan.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Picket.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Beak.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="BeakBullet.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="RockmanBullet.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Background\ObjectExt</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Background\ObjectExt</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteManager.h">
+      <Filter>Background\ObjectExt</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseObject.h">
+      <Filter>Background\ObjectBase</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Background\ObjectBase</Filter>
+    </ClInclude>
+    <ClInclude Include="MovableObject.h">
+      <Filter>Background\ObjectBase</Filter>
+    </ClInclude>
+    <ClInclude Include="OuterSpace.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="FBox.h">
+      <Filter>Background\Shape</Filter>
+    </ClInclude>
+    <ClInclude Include="FRectangle.h">
+      <Filter>Background\Shape</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>Background\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMap.h">
+      <Filter>Background\StageAndQuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="Stairs.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Background\StageAndQuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Background\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectsFilter.h">
+      <Filter>Background\StageAndQuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="QuadNode.h">
+      <Filter>Background\StageAndQuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="QuadTree.h">
+      <Filter>Background\StageAndQuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Background\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="DelayTime.h">
+      <Filter>Background\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="KEY.h">
+      <Filter>Background\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="Keyboard.h">
+      <Filter>Background\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>Background\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectXTool.h">
+      <Filter>Background\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="Form.h">
+      <Filter>Background\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Background\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="GameTime.h">
+      <Filter>Background\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>Background\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="MapGame.h">
+      <Filter>Background\StageAndQuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="Aladin.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="MapView.h">
+      <Filter>Background\StageAndQuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="ThingMan.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="ActionLoop.h">
+      <Filter>Background\ObjectExt</Filter>
+    </ClInclude>
+    <ClInclude Include="IMapGame.h">
+      <Filter>Background\StageAndQuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="FatMan.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

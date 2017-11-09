@@ -9,7 +9,7 @@ enum SPRITE_INFO
 	/*le thi kim chung update 7.10.2017*/
 	SPR_ALADIN = 0, //= 0
 	SPR_THINGMAN = 1,
-
+	SPR_FATMAN,
 	/*SPR_BLADER,*/ // = 1
 	SPR_PICKET,
 	SPR_PEA, //= 3

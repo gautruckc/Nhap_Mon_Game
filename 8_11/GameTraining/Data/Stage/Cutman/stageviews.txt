@@ -1,0 +1,22 @@
+StageCount
+9
+
+index	X	Y	Width	Height	
+0	0	3119	1024	225
+1	768	2887	256	225
+2	768	2647	256	225
+3	768	2407	256	225
+4	768	2167	768	225
+5	1280	1927	2064	225
+6	1280	1687	768	225
+7	1280	1447	768	225
+8	1280	1216	768	225
+
+CameraBeginX	CameraBeginY
+0		3119
+
+RockmanBeginX	RockmanBeginY
+100		100
+
+StageBegin
+0

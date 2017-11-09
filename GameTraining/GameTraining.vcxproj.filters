@@ -159,6 +159,9 @@
     <ClCompile Include="ActionLoop.cpp">
       <Filter>Background\ObjectExt</Filter>
     </ClCompile>
+    <ClCompile Include="FatMan.cpp">
+      <Filter>Objects</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Picket.h">
@@ -283,6 +286,9 @@
     </ClInclude>
     <ClInclude Include="IMapGame.h">
       <Filter>Background\StageAndQuadTree</Filter>
+    </ClInclude>
+    <ClInclude Include="FatMan.h">
+      <Filter>Objects</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

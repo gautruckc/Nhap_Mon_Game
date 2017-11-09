@@ -94,6 +94,7 @@
     <ClInclude Include="Config.h" />
     <ClInclude Include="DelayTime.h" />
     <ClInclude Include="Enemy.h" />
+    <ClInclude Include="FatMan.h" />
     <ClInclude Include="FBox.h" />
     <ClInclude Include="FRectangle.h" />
     <ClInclude Include="IMapGame.h" />
@@ -137,6 +138,7 @@
     <ClCompile Include="Constant.cpp" />
     <ClCompile Include="DelayTime.cpp" />
     <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="FatMan.cpp" />
     <ClCompile Include="FBox.cpp" />
     <ClCompile Include="FRectangle.cpp" />
     <ClCompile Include="KEY.cpp" />

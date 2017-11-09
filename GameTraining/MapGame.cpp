@@ -2,6 +2,7 @@
 #include "MapGame.h"
 #include"Picket.h"
 #include"ThingMan.h"
+#include"FatMan.h"
 #include"Beak.h"
 #include"Aladin.h"
 #include"Collision.h"
@@ -124,8 +125,8 @@ void MapGame::readObjects(char * objectsPath)
 		case SPR_THINGMAN:
 			objects[i] = new ThingMan();
 			break;
-		case SPR_PICKET:
-			objects[i] = new Picket();
+		case SPR_FATMAN:
+			objects[i] = new FatMan();
 			break;
 		case SPR_BEAK:
 			objects[i] = new Beak();

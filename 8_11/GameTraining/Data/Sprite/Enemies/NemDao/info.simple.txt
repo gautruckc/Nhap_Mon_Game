@@ -1,0 +1,26 @@
+R		G		B
+120		193		152
+Count
+1
+Sprite Info
+
+Index		Name
+0			Animation1
+
+			FramesCount
+			11
+
+			Animation Info
+			LocationX		LocationY		FrameWidth		FrameHeight
+			8				151				48				87
+			67				151				47				87
+			127				151				39				87
+			179				151				51				87
+			240				151				64				87
+			314				151				55				87
+			376				151				56				87
+			438				151				52				87
+			502				151				63				87
+			568				151				48				87
+			628				151				61				87
+
