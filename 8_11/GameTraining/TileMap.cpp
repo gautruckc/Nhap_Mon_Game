@@ -5,10 +5,12 @@ extern void ignoreLineIfstream(ifstream& fs, int lineCount);
 void TileMap::init(char * tileSheetPath, char * matrixPath)
 {
 	ifstream fs(matrixPath);
+
+	ignoreLineIfstream(fs, 1);
 	fs >> rowCount >> colCount >> colTileSheetCount;
 	width = colCount * 16;
 	height = rowCount * 16;
-	/*ignoreLineIfstream(fs, 2);*/
+	ignoreLineIfstream(fs, 2);
 
 	tileSheet = new Texture();
 	tileSheet->Init(tileSheetPath, 0);

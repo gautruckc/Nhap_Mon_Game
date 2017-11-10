@@ -6,14 +6,7 @@
 using namespace std;
 
 
-static void ignoreLineIfstream(ifstream& fs, int lineCount)
-{
-	string s;
-	for (int i = 0; i < lineCount; i++)
-	{
-		std::getline(fs, s);
-	}
-}
+void ignoreLineIfstream(ifstream& fs, int lineCount);
 
 class Sprite
 {

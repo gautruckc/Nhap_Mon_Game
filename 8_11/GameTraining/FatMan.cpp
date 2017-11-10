@@ -16,7 +16,7 @@ FatMan::FatMan()
 
 void FatMan::update()
 {
-
+	Enemy::update();
 }
 void FatMan::onCollision(FBox* other, int nx, int ny)
 {

@@ -115,8 +115,9 @@ void MapGame::readObjects(char * objectsPath)
 
 	int id;
 	ifstream fs(objectsPath);
-
+	ignoreLineIfstream(fs, 1);
 	fs >> nObject;
+	ignoreLineIfstream(fs, 2);
 	objects = new BaseObject*[nObject];
 	for (auto i = 0; i < nObject; i++)
 	{
@@ -155,7 +156,13 @@ void MapGame::readObjects(char * objectsPath)
 		objects[i]->oldRect.width = objects[i]->width;
 		objects[i]->oldRect.height = objects[i]->height;
 
-		if (id >= 0)
+		int collision;
+		fs >> collision;
+
+
+		ignoreLineIfstream(fs, 1);
+
+		/*if (id >= 0)
 		{
 			objects[i]->sprite = SpriteManager::getInstance()->sprites[id];
 			auto mov = (MovableObject*)objects[i];
@@ -164,7 +171,8 @@ void MapGame::readObjects(char * objectsPath)
 				>> mov->spaceMove.width
 				>> mov->spaceMove.height;
 			mov->spaceMove.y = rowCount * 16 - mov->spaceMove.y;
-		}
+		}*/
+
 	}
 }
 

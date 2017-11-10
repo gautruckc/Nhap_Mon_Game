@@ -5,6 +5,15 @@
 #include"Game.h"
 #include"KEY.h"
 
+void ignoreLineIfstream(ifstream& fs, int lineCount)
+{
+	string s;
+	for (int i = 0; i < lineCount; i++)
+	{
+		std::getline(fs, s);
+	}
+}
+
 //#ifdef RELEASE
 //void* operator new  (std::size_t count)
 //{

@@ -38,7 +38,7 @@ void Game::init()
 	Aladin::getInstance()->width = 22;
 	Aladin::getInstance()->height = 75;
 	camera->x = 10;
-	camera->y = 300;
+	camera->y = 250;
 	/*brick.x = 200;
 	brick.y = 200;
 	brick.width = 16;
